@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMath", "SuperMath\SuperMath.csproj", "{D26B59EE-856F-4A16-8C98-9B540EE3D1AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMathTests", "SuperMathTests\SuperMathTests.csproj", "{3E7868AE-5E58-4861-9F76-A45230897DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D26B59EE-856F-4A16-8C98-9B540EE3D1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26B59EE-856F-4A16-8C98-9B540EE3D1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26B59EE-856F-4A16-8C98-9B540EE3D1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26B59EE-856F-4A16-8C98-9B540EE3D1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7868AE-5E58-4861-9F76-A45230897DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7868AE-5E58-4861-9F76-A45230897DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7868AE-5E58-4861-9F76-A45230897DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7868AE-5E58-4861-9F76-A45230897DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219B8B5B-6FA1-47E0-8729-EF2E60266657}
+	EndGlobalSection
+EndGlobal
